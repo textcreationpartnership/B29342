@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch hay-makers, or, Crafty Jockey's courtship to coy Jenny  of Edenborough to an excellent new tune much in request.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29342</idno><idno type="EEBO-CITATION">31355747</idno>
+  <idno type="VID">155303</idno>
+  <idno type="EEBO-PROQUEST">2264183537</idno>
+  
+            <idno type="STC">Wing S953</idno>
+            <idno type="STC">ESTC R41669</idno>
+            <idno type="OCLC">31355747</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155303)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1752:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch hay-makers, or, Crafty Jockey's courtship to coy Jenny  of Edenborough to an excellent new tune much in request.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Bates ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Reproduction of original in the Magdalene College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:155303:1"/>
+            <head>THE Scotch HAY-MAKERS: OR, Crafty JOCKEY's Courtship TO Coy Jenny of Edenborough.</head>
+            <opener>To an excellent new Tune, much in Request.</opener>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <head>I.</head>
+               <l>'TWas within a Furlong of <hi>Edenborough</hi> Town,</l>
+               <l>In the rosie time o'th' Year, when the Grass was down,</l>
+               <l>Bonny <hi>Jockey,</hi> blith and gay, said to <hi>Jenny</hi> making Hay,</l>
+               <l>Let's sit a little, Dear, and prattle, 'tis a sultry Day:</l>
+               <l>He long had courted the black-brow'd Maid,</l>
+               <l>But <hi>Jockey</hi> was a Wag, and wou'd ne'er consent to wed;</l>
+               <l>Which made her pish and phoo, and cry it will not do;</l>
+               <l>I cannot, cannot, cannot, wonnot, wonnot buckle too.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>He told her Marriage was grown a meer joak,</l>
+               <l>And that no one wedded now but the Scoundrel Folk.</l>
+               <l>Yet, my Dear, you shou'd prevail, but I know not what I ail,</l>
+               <l>I shall dream of clogs, and silly dogs, with bottles at their tails.</l>
+               <l>But I'll give the Gloves, and a Bongrace to wear,</l>
+               <l>And a pretty filly Foal to ride out and take the air,</l>
+               <l>If thou ne'r will pish and phoo, and cry out it shall not do,</l>
+               <l>I cannot, cannot, cannot, wonnot, wonnot buckle too.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>That you'll give me Trinklits, cry'd she, I believe,</l>
+               <l>But ah! what in return must your poor <hi>Jenny</hi> give,</l>
+               <l>When my Maiden-treasure's gone, I mun gang to <hi>London</hi> Town,</l>
+               <l>And roar and rant, and patch and paint, and kiss for half a crown;</l>
+               <l>Each drunken Bully oblige for pay,</l>
+               <l>And earn a hated Living an odious fulsome way:</l>
+               <l>No, no, it ne'r shall do, for a Wife I'll be to you,</l>
+               <l>Or I cannot, cannot, cannot, wonnot, wonnot buckle too.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Ne'r was I so courted in all my life before,</l>
+               <l>You will stop young <hi>Jenny</hi>'s Breath, if you kiss me any more;</l>
+               <l>Fie upon you Lad forbear, you'll a silly Maid ensnare</l>
+               <l>By your fooling so, then let me go, or your locks Ise tear,</l>
+               <l>You are uncivil, I must be coy</l>
+               <l>Till wedded, there's no Loon shall my Maiden-head enjoy;</l>
+               <l>Then did she pish and phoo, and cry'd, it ne'r will do,</l>
+               <l>I cannot, cannot, cannot, wonnot, wonnot buckle too.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Sike a Lad as <hi>Jockey,</hi> young, Lasses would embrace,</l>
+               <l>Who can sing them pleasant Sonnets, and dances with a grace</l>
+               <l>On the pleasant rural Plain; do not then my Suit disdain,</l>
+               <l>From thy charming eyes, Love, arrows flies, which renew's my pain;</l>
+               <l>Love's fresh encounter he then renew'd;</l>
+               <l>She cry'd out, Fie, O fie, geud faith, you's muckle rude,</l>
+               <l>Then did she pish and phoo, and cry'd, it ne'er will do,</l>
+               <l>I cannot, cannot, cannot, wonnot, wonnot buckle too.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>If you mean to marry, Ise freely be your Bride,</l>
+               <l>Then at pleasure you may have what is otherwise deny'd,</l>
+               <l>Ne'er a Loon in all the Land, shall have me at his command,</l>
+               <l>Nor my Maiden-head, until I wed, take away your hand,</l>
+               <l>Or else I will cry, and rend the Skie,</l>
+               <l>For I will marry'd be, or else a Maid I'll die;</l>
+               <l>Then did she pish and phoo, and cry'd, it ne'er will do,</l>
+               <l>I cannot, cannot, cannot, wonnot, wonnot buckle too.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>C. Bates,</hi> at the <hi>Sun</hi> and <hi>Bible</hi> in <hi>Pye-corner.</hi>
+            </p>
+            <pb facs="tcp:155303:1"/>
+         </div>
+      </back>
+   </text>
+</TEI>
